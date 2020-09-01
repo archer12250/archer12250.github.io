@@ -6,7 +6,7 @@
     <description>Recent content in Categories on 柯的家</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Apr 2020 21:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 21:07:47 +0800</lastBuildDate>
     
 	<atom:link href="https://archer12250.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,9 @@
     <item>
       <title>心得</title>
       <link>https://archer12250.github.io/categories/%E5%BF%83%E5%BE%97/</link>
-      <pubDate>Thu, 16 Apr 2020 21:07:47 +0800</pubDate>
+      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
       
       <guid>https://archer12250.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android And Gmaing</title>
-      <link>https://archer12250.github.io/categories/android-and-gmaing/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://archer12250.github.io/categories/android-and-gmaing/</guid>
       <description></description>
     </item>
     
@@ -35,51 +26,6 @@
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://archer12250.github.io/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://archer12250.github.io/categories/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://archer12250.github.io/categories/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://archer12250.github.io/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://archer12250.github.io/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Language</title>
-      <link>https://archer12250.github.io/categories/programming-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://archer12250.github.io/categories/programming-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://archer12250.github.io/categories/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://archer12250.github.io/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Design</title>
-      <link>https://archer12250.github.io/categories/web-design/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://archer12250.github.io/categories/web-design/</guid>
       <description></description>
     </item>
     
