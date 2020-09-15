@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Archer部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 01 Sep 2020 21:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 05:07:47 +0800</lastBuildDate>
     
 	<atom:link href="https://archer12250.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,54 +14,18 @@
     <item>
       <title>Photos</title>
       <link>https://archer12250.github.io/tags/photos/</link>
-      <pubDate>Tue, 01 Sep 2020 21:07:47 +0800</pubDate>
+      <pubDate>Sat, 22 Aug 2020 05:07:47 +0800</pubDate>
       
       <guid>https://archer12250.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>鯊鯊</title>
-      <link>https://archer12250.github.io/tags/%E9%AF%8A%E9%AF%8A/</link>
-      <pubDate>Tue, 01 Sep 2020 21:07:47 +0800</pubDate>
+      <title>Travel</title>
+      <link>https://archer12250.github.io/tags/travel/</link>
+      <pubDate>Sat, 22 Aug 2020 05:07:47 +0800</pubDate>
       
-      <guid>https://archer12250.github.io/tags/%E9%AF%8A%E9%AF%8A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://archer12250.github.io/tags/game/</link>
-      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
-      
-      <guid>https://archer12250.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://archer12250.github.io/tags/html/</link>
-      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
-      
-      <guid>https://archer12250.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://archer12250.github.io/tags/new/</link>
-      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
-      
-      <guid>https://archer12250.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://archer12250.github.io/tags/python/</link>
-      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
-      
-      <guid>https://archer12250.github.io/tags/python/</guid>
+      <guid>https://archer12250.github.io/tags/travel/</guid>
       <description></description>
     </item>
     
