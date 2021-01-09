@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archer部落格</title>
-    <link>https://archer12250.github.io/</link>
-    <description>Recent content on Archer部落格</description>
+    <title>生活紀錄 on Archer部落格</title>
+    <link>https://archer12250.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/</link>
+    <description>Recent content in 生活紀錄 on Archer部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 07 Jan 2021 05:07:47 +0800</lastBuildDate>
     
-	<atom:link href="https://archer12250.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://archer12250.github.io/categories/%E7%94%9F%E6%B4%BB%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -41,15 +41,6 @@
 雖然看起來很簡單，應該可以很快的完成，但事情往往沒有想像的那麼容易。
 資料處理起來，光是一個IP就快要花掉我一天的時間。
 看來資料整理得方面還需要加強!!!</description>
-    </item>
-    
-    <item>
-      <title>台東4日遊行程</title>
-      <link>https://archer12250.github.io/blog/%E6%97%85%E9%81%8A/travl/</link>
-      <pubDate>Sat, 22 Aug 2020 05:07:47 +0800</pubDate>
-      
-      <guid>https://archer12250.github.io/blog/%E6%97%85%E9%81%8A/travl/</guid>
-      <description>台東4日遊行程 2020年 8/22(六) 12：30 台東火車站集合 租機車 12：50 前往鹿野熱氣球(車程45分鐘) 13：35 鹿野熱氣球 有時間可以去 初鹿牧場 18：00 吃晚餐 (在鹿野推薦鹿野小館 網路評價不錯 要先訂位) 20：00 前往伯朗大道OR富源景觀平台 看銀河 21：00 住鹿野附近</description>
     </item>
     
   </channel>

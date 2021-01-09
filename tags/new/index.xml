@@ -6,38 +6,41 @@
     <description>Recent content in New on Archer部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 17 Apr 2020 21:07:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 05:07:47 +0800</lastBuildDate>
     
 	<atom:link href="https://archer12250.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Archer的第三篇文章</title>
-      <link>https://archer12250.github.io/blog/third/</link>
-      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
+      <title>生活紀錄part1</title>
+      <link>https://archer12250.github.io/blog/%E7%94%9F%E6%B4%BB/life_2021_0107/</link>
+      <pubDate>Thu, 07 Jan 2021 05:07:47 +0800</pubDate>
       
-      <guid>https://archer12250.github.io/blog/third/</guid>
-      <description></description>
+      <guid>https://archer12250.github.io/blog/%E7%94%9F%E6%B4%BB/life_2021_0107/</guid>
+      <description>生活紀錄par1 今天在整理Excel檔案的時候
+覺得自己可以將現在做的事情做一個紀錄，並且分享出來。
+像是Excel目前所遇到的情況與指令怎樣使用
+紀錄並分享，可以讓自己整理一下思緒
+也讓自己留下一個足跡
+知道現在的自己在做甚麼!!
+努力一天發一篇文!!</description>
     </item>
     
     <item>
-      <title>Archer的第二篇文章</title>
-      <link>https://archer12250.github.io/blog/second-post/</link>
-      <pubDate>Fri, 17 Apr 2020 21:07:47 +0800</pubDate>
+      <title>2021下定決心</title>
+      <link>https://archer12250.github.io/blog/%E7%94%9F%E6%B4%BB/life_2021_0106/</link>
+      <pubDate>Wed, 06 Jan 2021 05:07:47 +0800</pubDate>
       
-      <guid>https://archer12250.github.io/blog/second-post/</guid>
-      <description>我是第二篇文章</description>
-    </item>
-    
-    <item>
-      <title>Archer的第一篇文章</title>
-      <link>https://archer12250.github.io/blog/test/</link>
-      <pubDate>Thu, 16 Apr 2020 21:07:47 +0800</pubDate>
-      
-      <guid>https://archer12250.github.io/blog/test/</guid>
-      <description>hellow word!!
-柴柴
-一級的標題 二級標題   </description>
+      <guid>https://archer12250.github.io/blog/%E7%94%9F%E6%B4%BB/life_2021_0106/</guid>
+      <description>2021新希望 2020是個特別的一年
+那年終於從研究所畢業了，也順利地找到了工作，目前上班還算愉快
+可因為我還是個新人吧!!
+現在剛開始無法作太困難的任務，所以就從做著資料的處理。
+開始學習如何更有效率的工作，開始學會如何問問題，該如何表達自己所遇到的狀況，以及練習要怎樣敘述事情的經過。
+了解Excel要怎樣可以更快速地呈現出所需要的資料。
+雖然看起來很簡單，應該可以很快的完成，但事情往往沒有想像的那麼容易。
+資料處理起來，光是一個IP就快要花掉我一天的時間。
+看來資料整理得方面還需要加強!!!</description>
     </item>
     
   </channel>
